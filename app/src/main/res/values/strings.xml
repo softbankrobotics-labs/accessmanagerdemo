@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AccessManagerDemo</string>
+    <string name="main">This is a demo application for Access Manager. Try to click on the settings button below.</string>
+    <string name="access">You will be asked to enter a PIN code to enter settings. Enter the PIN code of the Access Manager Application to get the access granted.
+        Otherwise your access will be denied.</string>
+    <string name="retry">You can now try to access settings with this new password!</string>
+    <string name="denied">Access Denied</string>
+    <string name="granted">Access Granted</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">Back</string>
+    <string name="settings_image">Settings Image</string>
+</resources>
